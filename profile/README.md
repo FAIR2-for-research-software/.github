@@ -16,7 +16,7 @@ ongoing use at the University of Sheffield and in the wider community.
 - [Software lifecycle
   planning](https://github.com/FAIR2-for-research-software/Software_Lifecycle_Planning)
 - [Version control](https://srse-git-github-zero2hero.netlify.app/)
-- Software design
+- [Software design](https://github.com/FAIR2-for-research-software/FAIR_Code_design)
 - [Testing and Continuous
   Integration](https://github.com/FAIR2-for-research-software/python-testing-for-research)
 - [Documentation](https://github.com/FAIR2-for-research-software/Documentation)
