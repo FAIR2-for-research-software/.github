@@ -11,15 +11,16 @@ ongoing use at the University of Sheffield and in the wider community.
 
 ## Outline of the programme
 
-- [Better software for better research: Introduction to the FAIR training
+- [Better Software for Better Research: Introduction to the FAIR training
   programme](https://github.com/FAIR2-for-research-software/Better_software_for_better_research)
-- [Software lifecycle
-  planning](https://github.com/FAIR2-for-research-software/Software_Lifecycle_Planning)
-- [Version control](https://srse-git-github-zero2hero.netlify.app/)
-- [Software design](https://github.com/FAIR2-for-research-software/FAIR_Code_design)
+- [Software Lifecycle
+  Planning](https://github.com/FAIR2-for-research-software/Software_Lifecycle_Planning)
+- [Version Control : Git and GitHub through GitKraken - From Zero to Hero!](https://github.com/RSE-Sheffield/git-github-zero-to-hero)
+- [Version Control : Git Collaboration](https://github.com/FAIR2-for-research-software/git-collaboration)
+- [Software Design](https://github.com/FAIR2-for-research-software/FAIR_Code_design)
 - [Testing and Continuous
   Integration](https://github.com/FAIR2-for-research-software/python-testing-for-research)
 - [Documentation](https://github.com/FAIR2-for-research-software/Documentation)
-- Reproducible computational environments
+- Reproducible Computational Environments
 - Packaging
-- Publishing a software paper in JOSS
+- Publishing a Software Paper in JOSS
