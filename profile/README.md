@@ -21,6 +21,6 @@ ongoing use at the University of Sheffield and in the wider community.
 - [Testing and Continuous
   Integration](https://github.com/FAIR2-for-research-software/python-testing-for-research)
 - [Documentation](https://github.com/FAIR2-for-research-software/Documentation)
-- Reproducible Computational Environments
+- [Reproducible Computational Environments](https://github.com/FAIR2-for-research-software/FAIR4RS-VirtualEnvs)
 - Packaging
 - Publishing a Software Paper in JOSS
