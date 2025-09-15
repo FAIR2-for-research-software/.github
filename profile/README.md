@@ -16,10 +16,9 @@ ongoing use at the University of Sheffield and in the wider community.
 - [Software Lifecycle
   Planning](https://github.com/FAIR2-for-research-software/Software_Lifecycle_Planning)
 - [Version Control : Git and GitHub through GitKraken - From Zero to Hero!](https://github.com/RSE-Sheffield/git-github-zero-to-hero)
-- [Version Control : Git Collaboration](https://github.com/FAIR2-for-research-software/git-collaboration)
+- [Version Control : Git With It](https://github.com/FAIR2-for-research-software/git-with-it)
 - [Software Design](https://github.com/FAIR2-for-research-software/FAIR_Code_design)
-- [Testing and Continuous
-  Integration](https://github.com/FAIR2-for-research-software/python-testing-for-research)
+- [Testing and Continuous Integration](https://github.com/FAIR2-for-research-software/python-testing-for-research)
 - [Documentation](https://github.com/FAIR2-for-research-software/Documentation)
 - [Reproducible Computational Environments](https://github.com/FAIR2-for-research-software/FAIR4RS-VirtualEnvs)
 - [Packaging](https://github.com/FAIR2-for-research-software/FAIR4RS-Packaging)
