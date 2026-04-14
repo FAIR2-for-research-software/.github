@@ -12,14 +12,14 @@ ongoing use at the University of Sheffield and in the wider community.
 ## Outline of the programme
 
 - [Better Software for Better Research: Introduction to the FAIR training
-  programme](https://github.com/FAIR2-for-research-software/Better_software_for_better_research)
+  programme](https://fair2-for-research-software.github.io/Better_software_for_better_research/)
 - [Software Lifecycle
-  Planning](https://github.com/FAIR2-for-research-software/Software_Lifecycle_Planning)
-- [Version Control : Git and GitHub through GitKraken - From Zero to Hero!](https://github.com/RSE-Sheffield/git-github-zero-to-hero)
-- [Version Control : Git With It](https://github.com/FAIR2-for-research-software/git-with-it)
-- [Software Design](https://github.com/FAIR2-for-research-software/FAIR_Code_design)
-- [Testing and Continuous Integration](https://github.com/FAIR2-for-research-software/python-testing-for-research)
-- [Documentation](https://github.com/FAIR2-for-research-software/Documentation)
-- [Reproducible Computational Environments](https://github.com/FAIR2-for-research-software/FAIR4RS-VirtualEnvs)
-- [Packaging](https://github.com/FAIR2-for-research-software/FAIR4RS-Packaging)
+  Planning](https://fair2-for-research-software.github.io/Software_Lifecycle_Planning/)
+- [Version Control : Git and GitHub through GitKraken - From Zero to Hero!](https://srse-git-github-zero2hero.netlify.app/)
+- [Version Control : Git With It](https://fair2-for-research-software.github.io/git-with-it/)
+- [Software Design](https://fair2-for-research-software.github.io/FAIR_Code_design/)
+- [Testing and Continuous Integration](https://fair2-for-research-software.github.io/python-testing-for-research/)
+- [Documentation](https://fair2-for-research-software.github.io/Documentation/)
+- [Reproducible Computational Environments](https://fair2-for-research-software.github.io/FAIR4RS-VirtualEnvs/)
+- [Packaging](https://fair2-for-research-software.github.io/FAIR4RS-Packaging/)
 - Publishing a Software Paper in JOSS
